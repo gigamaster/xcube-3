@@ -10,9 +10,45 @@ XCMobile — update of former version X-Fury
 
 ![XContainer - XCube3](https://repository-images.githubusercontent.com/618450971/3abfbfa6-ce38-4074-ba3e-584484623411)
 
-### Overview of the project activities
+## Overview of the project activities
 
-2020-2024  
+### 2025
+
+- Lice code empowers developers to write and edit code from anywhere using only a web browser.
+- Web-based architecture allows you to turn any device into a fully functional IDE and file manager.  
+- XC3 office provides a feature-rich PDF editor offering tools for creating, editing, and annotating PDF documents. 
+- Private AI powerful language models like Llama3 with Ollama GPT, ensuring secure, data-protective prompts for your tasks.
+
+---
+
+### 2024-2025
+
+Run on any device, access XC3 from anywhere via web with seamless cross-platform performance.
+
+### XC3 Unique Features
+Manage your applications and services, simplify your digital tasks, protect your data and connect easily.
+
+### Unified Management
+Secure and unified management of all your web apps and services.
+
+###  Ease of Use
+Simplifies management for everyone, from administrators to users.
+
+### XC3 App Store
+Built on top of X-Update Store, easily install over 100 applications with a single click.
+
+### Manage Resources
+Get a complete view of the status of your apps and services.
+
+### Advanced Security
+Robust security with login encryption, logs and native HTTPS support.
+
+### Universal Accessibility
+Simple, secure and scalable: anytime, anywhere, on any device.
+
+---
+
+### 2020-2024  
 
 Accelerate digital transformation with turnkey solutions and differentiated pricing.  
 Systems are built end-to-end for customers, which are easy to integrate into current business processes.
